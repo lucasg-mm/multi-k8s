@@ -7,7 +7,7 @@ spec:
   selector:
     matchLabels:
       component: worker
-  template: 
+  template:
     metadata:
       labels:
         component: worker
